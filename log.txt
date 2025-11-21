@@ -1,3 +1,4 @@
+803d9a3 Task 2.4 - Updated log
 9a7e6d0 Task 2.3 - Updated log
 9d2782c Task 2.2 - Updated log
 27d1aef Task 2.1 - Updated log
