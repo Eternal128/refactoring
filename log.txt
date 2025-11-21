@@ -1,3 +1,5 @@
+478e8b5 fixed checkstyle
+fdfd1f3 Task 1.1 - Updated log
 23226f0 Task 1.1 - Added newlines at end of files
 54f227b Task 1.1 - Updated log
 015112a Task 1.1 - Fixed CheckStyle issues: modifier order and formatting
