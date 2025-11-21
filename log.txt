@@ -1,3 +1,7 @@
+f9674bb Task 2.1 - Extracted getAmount method and refactored
+3ebd675 finished task
+856b788 Task 2.1 - Extracted getAmount method and refactored
+12735b5 Task 1.2 - Updated git log
 2b4f164 fixed tests for the not-for-credit tasks; parameter ordering and ensuring consistent line endings.
 ff5004e adding shortcut keys for Inline Variable (Re: Piazza question)
 b545fe2 clarifying extracted method names in README.md
