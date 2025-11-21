@@ -1,3 +1,5 @@
+23226f0 Task 1.1 - Added newlines at end of files
+54f227b Task 1.1 - Updated log
 015112a Task 1.1 - Fixed CheckStyle issues: modifier order and formatting
 2799def Task 1.1 - Updated log file
 48eb60e changed to final variable
