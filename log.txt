@@ -1,3 +1,4 @@
+9d2782c Task 2.2 - Updated log
 27d1aef Task 2.1 - Updated log
 f9674bb Task 2.1 - Extracted getAmount method and refactored
 3ebd675 finished task
