@@ -1,7 +1,8 @@
 package theater;
 
-/*
-Class representing a play
+/**
+ * Class representing a play.
+ * @author James William Hanzell
  */
 public class Play {
 
